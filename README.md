@@ -1,4 +1,4 @@
-# 14848_HW1 (including Extra-Credit lab)
+# 14848_HW1 (Including Extra-Credit Lab)
 Fall 2021 14-848 Cloud Infrastructure Homework-1
 
 Note: Slightly more deatailed "Congratulations" messages are in the `./*.jpg` files 
