@@ -1,7 +1,7 @@
 # 14848_HW1 (Including Extra-Credit Lab)
 Fall 2021 14-848 Cloud Infrastructure Homework-1
 
-Note: Slightly more deatailed "Congratulations" messages are in the `./*.jpg` files 
+**Note:** Slightly more deatailed "Congratulations" messages are in the `./*.jpg` files 
 
 |![image](https://user-images.githubusercontent.com/12209457/133645670-9f68cf5a-8801-4729-9e56-896bf2329ee8.png)|
 |---|
